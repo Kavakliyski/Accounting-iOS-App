@@ -1,7 +1,8 @@
 {
   "expo": {
     "name": "Accounting-iOS-App2",
-    "slug": "Accounting-iOS-App2",
+    "slug": "accounting-app",
+    "owner": "luskoeqk",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
